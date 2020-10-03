@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Ultimate_Goal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\Ultimate_GoalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_Goal.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_GoalCharacter.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_GoalGameMode.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_Goal.init.gen.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_GoalCharacter.gen.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Ultimate_GoalGameMode.gen.cpp.obj"
+"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Default.rc2.res"
+/OUT:"C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\UE4Editor-Ultimate_Goal.lib"
+/INCLUDE:IMPLEMENT_MODULE_Ultimate_Goal

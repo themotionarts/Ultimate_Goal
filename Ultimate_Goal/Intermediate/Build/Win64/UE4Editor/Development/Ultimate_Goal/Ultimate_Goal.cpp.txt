@@ -1,0 +1,2 @@
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Definitions.Ultimate_Goal.h
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Source\Ultimate_Goal\Ultimate_Goal.h

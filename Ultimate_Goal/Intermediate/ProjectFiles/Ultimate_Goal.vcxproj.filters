@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Ultimate_Goal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DFED5ED0-8830-4627-9EA1-FD9F2AB03A0B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ultimate_Goal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Ultimate_GoalEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1EF1FA20-8EDF-4791-8746-AAD60245434A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Ultimate_Goal">
+      <UniqueIdentifier>{F3FC36F2-C310-4D26-B192-61156F37D483}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Ultimate_Goal\Ultimate_Goal.Build.cs">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Ultimate_Goal\Ultimate_Goal.cpp">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ultimate_Goal\Ultimate_Goal.h">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ultimate_Goal\Ultimate_GoalCharacter.cpp">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ultimate_Goal\Ultimate_GoalCharacter.h">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Ultimate_Goal\Ultimate_GoalGameMode.cpp">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Ultimate_Goal\Ultimate_GoalGameMode.h">
+      <Filter>Source\Ultimate_Goal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

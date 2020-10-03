@@ -1,0 +1,13 @@
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Development\Ultimate_Goal\Definitions.Ultimate_Goal.h
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Source\Ultimate_Goal\Ultimate_GoalGameMode.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Inc\Ultimate_Goal\Ultimate_GoalGameMode.generated.h
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Source\Ultimate_Goal\Ultimate_GoalCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\aojic\Documents\Unreal Projects\Ultimate_Goal\Ultimate_Goal\Intermediate\Build\Win64\UE4Editor\Inc\Ultimate_Goal\Ultimate_GoalCharacter.generated.h
